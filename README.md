@@ -1,6 +1,6 @@
 # Anrop ACE Compat
 
-Contains additional ACE compatability configs
+Contains additional ACE compatibility configs
 
 ## Build locally
 
